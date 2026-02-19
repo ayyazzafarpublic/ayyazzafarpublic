@@ -19,9 +19,9 @@ Currently working on [Current Project/Job].
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Meta’s JiTTests: How AI Writes 22,000 Tests, Finds 4x More Bugs, Then Deletes Them All](https://ayyazzafar.medium.com/metas-jittests-how-ai-writes-22-000-tests-finds-4x-more-bugs-then-deletes-them-all-9625ee5ef78c?source=rss-f44e42fe1f29------2)
 - [I Tested All 3 Browser Tools for Claude Code — Here’s the Best One](https://ayyazzafar.medium.com/i-tested-all-3-browser-tools-for-claude-code-heres-the-best-one-a54d6bcbe19a?source=rss-f44e42fe1f29------2)
 - [I Built a YouTube Shorts Generator with AI — Here’s How You Can Too](https://ayyazzafar.medium.com/i-built-a-youtube-shorts-generator-with-ai-heres-how-you-can-too-033adcddbbe0?source=rss-f44e42fe1f29------2)
 - [Claude Code Tutorial for Beginners 2026: Everything You Need to Get Started](https://ayyazzafar.medium.com/claude-code-tutorial-for-beginners-2026-everything-you-need-to-get-started-2477a208d7e4?source=rss-f44e42fe1f29------2)
 - [Build a Talking AI Phone Agent with ElevenLabs and Twilio — A Step-by-Step Tutorial](https://ayyazzafar.medium.com/build-a-talking-ai-phone-agent-with-elevenlabs-and-twilio-a-step-by-step-tutorial-735b60b705bc?source=rss-f44e42fe1f29------2)
-- [How to integrate Froala WYSIWYG editor in Angular 13?](https://ayyazzafar.medium.com/how-to-integrate-froala-wysiwyg-editor-in-angular-13-6d77ac7d1187?source=rss-f44e42fe1f29------2)
 <!-- BLOG-POST-LIST:END -->
