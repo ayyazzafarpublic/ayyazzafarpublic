@@ -19,9 +19,9 @@ Currently working on [Current Project/Job].
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Just Got Smarter — The Effort Parameter ExplainedClaude Code just got a new control…](https://ayyazzafar.medium.com/claude-code-just-got-smarter-the-effort-parameter-explainedclaude-code-just-got-a-new-control-592ca076f923?source=rss-f44e42fe1f29------2)
+- [Claude Code Double Usage Limits — How to Maximize Before March 27](https://ayyazzafar.medium.com/claude-code-double-usage-limits-how-to-maximize-before-march-27-c59bf4058d91?source=rss-f44e42fe1f29------2)
+- [Claude Code Just Got Smarter — The Effort Parameter Explained](https://ayyazzafar.medium.com/claude-code-just-got-smarter-the-effort-parameter-explainedclaude-code-just-got-a-new-control-592ca076f923?source=rss-f44e42fe1f29------2)
 - [Using NotebookLM as a RAG server for your AI agent](https://ayyazzafar.medium.com/using-notebooklm-as-a-rag-server-for-your-ai-agent-30e346c02829?source=rss-f44e42fe1f29------2)
 - [Stop Paying for AI Images — Generate Unlimited Free with Nano Banana Pro](https://ayyazzafar.medium.com/stop-paying-for-ai-images-generate-unlimited-free-with-nano-banana-pro-8a7ce2b25c75?source=rss-f44e42fe1f29------2)
 - [Generate FREE AI Images with Google Flow and Nano Banana](https://ayyazzafar.medium.com/generate-free-ai-images-with-google-flow-and-nano-banana-f0c19180db85?source=rss-f44e42fe1f29------2)
-- [Claude Code Remote Control — Control Your Terminal from Your Phone](https://ayyazzafar.medium.com/claude-code-remote-control-control-your-terminal-from-your-phone-10093d7cba01?source=rss-f44e42fe1f29------2)
 <!-- BLOG-POST-LIST:END -->
