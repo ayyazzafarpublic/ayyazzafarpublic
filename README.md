@@ -19,9 +19,9 @@ Currently working on [Current Project/Job].
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code Built My Portfolio in 5 Minutes — Next.js + Tailwind CSS from One Prompt](https://ayyazzafar.medium.com/claude-code-built-my-portfolio-in-5-minutes-next-js-tailwind-css-from-one-prompt-10473ee0b191?source=rss-f44e42fe1f29------2)
 - [I Control My Server from Telegram with AI — OpenClaw Setup Guide](https://ayyazzafar.medium.com/i-control-my-server-from-telegram-with-ai-openclaw-setup-guide-a1dfcc9ea009?source=rss-f44e42fe1f29------2)
 - [Claude Code Channels: Text Your AI from iMessage — Complete Setup Guide](https://ayyazzafar.medium.com/claude-code-channels-text-your-ai-from-imessage-complete-setup-guide-52748a1af47d?source=rss-f44e42fe1f29------2)
 - [Claude Code Channels: Control Your AI Agent from Telegram &lpar;Complete Setup Guide&rpar;](https://ayyazzafar.medium.com/claude-code-channels-control-your-ai-agent-from-telegram-complete-setup-guide-89014a726a5a?source=rss-f44e42fe1f29------2)
 - [Claude Code Channels: Control Your AI Agent from Discord &lpar;Complete Setup Guide&rpar;](https://ayyazzafar.medium.com/claude-code-channels-control-your-ai-agent-from-discord-complete-setup-guide-4ccab853153e?source=rss-f44e42fe1f29------2)
-- [Google Stitch 2.0: Import Any Website’s Design System Into Your AI-Generated App](https://ayyazzafar.medium.com/google-stitch-2-0-import-any-websites-design-system-into-your-ai-generated-app-5355903cc3e9?source=rss-f44e42fe1f29------2)
 <!-- BLOG-POST-LIST:END -->
