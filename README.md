@@ -19,9 +19,9 @@ Currently working on [Current Project/Job].
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Claude AI in Slack: Summarize Threads, Review Code, and Fix Bugs with a PR](https://ayyazzafar.medium.com/claude-ai-in-slack-summarize-threads-review-code-and-fix-bugs-with-a-pr-c7a4320afc31?source=rss-f44e42fe1f29------2)
 - [Claude Just Gave Me $100 Free — Claim Yours Before April 17, 2026](https://ayyazzafar.medium.com/claude-just-gave-me-100-free-claim-yours-before-april-17-2026-20a13d69e5af?source=rss-f44e42fe1f29------2)
 - [Claude Just Gave Me $100 Free — Claim Yours Before April 17, 2026](https://ayyazzafar.medium.com/claude-just-gave-me-100-free-claim-yours-before-april-17-2026-578e7ae96237?source=rss-f44e42fe1f29------2)
 - [Claude Code Tutorial for Beginners — Build Your First App with AI &lpar;2026&rpar;](https://ayyazzafar.medium.com/claude-code-tutorial-for-beginners-build-your-first-app-with-ai-2026-ebb694e67211?source=rss-f44e42fe1f29------2)
 - [Deploy Next.js to Hostinger with One AI Prompt &lpar;Claude Code Tutorial&rpar;](https://ayyazzafar.medium.com/deploy-next-js-to-hostinger-with-one-ai-prompt-claude-code-tutorial-0c2b3c8a3c0b?source=rss-f44e42fe1f29------2)
-- [Open Code + MiniMax M2.7: Get 95% Cheaper AI Coding &lpar;Claude Code Alternative&rpar;](https://ayyazzafar.medium.com/open-code-minimax-m2-7-get-95-cheaper-ai-coding-claude-code-alternative-3d1819af66a4?source=rss-f44e42fe1f29------2)
 <!-- BLOG-POST-LIST:END -->
